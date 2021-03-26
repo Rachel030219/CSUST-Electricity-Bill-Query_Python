@@ -1,4 +1,4 @@
-# CSUST Electricity Bill Check / 长沙理工大学电费查询: Python ver.
+# CSUST Electricity Bill Query / 长沙理工大学电费查询: Python ver.
 
 这个小工具被设计用来简化长沙理工大学公寓中心复杂的电费查询流程。相对于从复杂的列表中选择，这个工具将其简化到了几乎只需要输入选项序号及房间号即可操作的程度。
 
@@ -7,7 +7,7 @@
 - Python 3
 - 键盘
 
-使用指南：下载 [main.py](https://github.com/Rachel030219/CSUSTElectricityBillCheck_Python/tree/master/main.py "main.py") ，启动。
+使用指南：下载 [main.py](https://github.com/Rachel030219/CSUST-Electricity-Bill-Query_Python/tree/master/main.py) ，启动。
 
 ## 技术细节
 
